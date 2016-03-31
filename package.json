@@ -1,0 +1,11 @@
+{
+  "name": "react_es6_adapter",
+  "version": "1.0.0",
+  "description": "This is for React usage on ES6",
+  "main": "es6_snippet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrei",
+  "license": "ISC"
+}
